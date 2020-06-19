@@ -1,0 +1,9 @@
+[submodule "plugin.program.reaperwizard"]
+	path = plugin.program.reaperwizard
+	url = https://github.com/reddit-reaper/plugin.program.reaperwizard
+[submodule "skin.estuarymod"]
+	path = skin.estuarymod
+	url = https://github.com/reddit-reaper/skin.estuarymod
+[submodule "plugin.program.super.favourites"]
+	path = plugin.program.super.favourites
+	url = https://github.com/reddit-reaper/plugin.program.super.favourites
