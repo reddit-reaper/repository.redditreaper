@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.redditreaper" name="Reddit Reaper Repository" version="1.3" provider-name="Reddit Reaper">
+	<extension point="xbmc.addon.repository" name="Reddit Reaper Repository">
+		<info compressed="false">https://raw.githubusercontent.com/reddit-reaper/repository.redditreaper/master/zips/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/reddit-reaper/repository.redditreaper/master/zips/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/reddit-reaper/repository.redditreaper/master/zips/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Reddit Reaper's Kodi Build Repository</summary>
+		<description>Reaper Builds</description>
+		<platform>all</platform>
+	</extension>
+</addon>
