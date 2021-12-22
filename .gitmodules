@@ -1,0 +1,20 @@
+[submodule "leia/skin.estuarymod"]
+	path = leia/skin.estuarymod
+	url = https://github.com/reddit-reaper/skin.estuarymod
+	branch = master
+[submodule "leia/plugin.program.super.favourites"]
+	path = leia/plugin.program.super.favourites
+	url = https://github.com/reddit-reaper/plugin.program.super.favourites
+	branch = master
+[submodule "leia/plugin.program.reaperwizard"]
+	path = leia/plugin.program.reaperwizard
+	url = https://github.com/reddit-reaper/plugin.program.reaperwizard
+	branch = master
+[submodule "matrix/plugin.program.reaperwizard"]
+	path = matrix/plugin.program.reaperwizard
+	url = https://github.com/reddit-reaper/plugin.program.reaperwizard
+	branch = matrix
+[submodule "matrix/skin.estuarymod"]
+	path = matrix/skin.estuarymod
+	url = https://github.com/reddit-reaper/skin.estuarymod
+	branch = matrix
