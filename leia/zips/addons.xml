@@ -192,14 +192,14 @@
     </menu>
   </extension>
 
-</addon><addon id="repository.redditreaper" name="Reddit Reaper Repository" version="2.3" provider-name="Reddit Reaper">
+</addon><addon id="repository.redditreaper" name="Reddit Reaper Repository" version="2.4" provider-name="Reddit Reaper">
     <extension point="xbmc.addon.repository" name="[COLOR limegreen][B]Open[/B][/COLOR]Wizard Repository">
-        <dir minversion="18.0" maxversion="18.9.0">
+        <dir minversion="18.0" maxversion="18.9.9">
             <info compressed="false">https://raw.githubusercontent.com/reddit-reaper/repository.redditreaper/master/leia/zips/addons.xml</info>
             <checksum>https://raw.githubusercontent.com/reddit-reaper/repository.redditreaper/master/leia/zips/addons.xml.md5</checksum>
             <datadir zip="true">https://raw.githubusercontent.com/reddit-reaper/repository.redditreaper/master/leia/zips/</datadir>
         </dir>
-        <dir minversion="18.9.0">
+        <dir minversion="19.0" maxversion="19.9.9">
             <info compressed="false">https://raw.githubusercontent.com/reddit-reaper/repository.redditreaper/master/matrix/zips/addons.xml</info>
             <checksum>https://raw.githubusercontent.com/reddit-reaper/repository.redditreaper/master/matrix/zips/addons.xml.md5</checksum>
             <datadir zip="true">https://raw.githubusercontent.com/reddit-reaper/repository.redditreaper/master/matrix/zips/</datadir>
