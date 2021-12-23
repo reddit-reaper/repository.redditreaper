@@ -170,9 +170,9 @@
         </assets>
         <source>https://github.com/reddit-reaper/repository.redditreaper/</source>
     </extension>
-</addon><addon id="skin.estuarymod" version="3.0.8" name="EstuaryMOD (Matrix)" provider-name="Reddit Reaper, Skyfsza">
+</addon><addon id="skin.estuarymod" version="3.0.91" name="EstuaryMOD (Matrix)" provider-name="Reddit Reaper, Skyfsza">
 	<requires>
-		<import addon="xbmc.gui" version="5.16.0" />
+		<import addon="xbmc.gui" version="5.15.0" />
 		<import addon="script.skinshortcuts" version="1.0.18" />
         <import addon="script.skin.helper.service" version="1.1.24" />
         <import addon="script.skin.helper.widgets" version="1.0.38" />
