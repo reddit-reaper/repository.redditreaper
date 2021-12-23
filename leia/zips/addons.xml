@@ -199,7 +199,7 @@
             <checksum>https://raw.githubusercontent.com/reddit-reaper/repository.redditreaper/master/leia/zips/addons.xml.md5</checksum>
             <datadir zip="true">https://raw.githubusercontent.com/reddit-reaper/repository.redditreaper/master/leia/zips/</datadir>
         </dir>
-        <dir minversion="19.0">
+        <dir minversion="18.9">
             <info compressed="false">https://raw.githubusercontent.com/reddit-reaper/repository.redditreaper/master/matrix/zips/addons.xml</info>
             <checksum>https://raw.githubusercontent.com/reddit-reaper/repository.redditreaper/master/matrix/zips/addons.xml.md5</checksum>
             <datadir zip="true">https://raw.githubusercontent.com/reddit-reaper/repository.redditreaper/master/matrix/zips/</datadir>
