@@ -1,20 +1,27 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.redditreaper" name="Reddit Reaper Repository" version="2.0" provider-name="Reddit Reaper">
-	<extension point="xbmc.addon.repository" name="Reddit Reaper Repository">
-		<dir minversion="18.0" maxversion="18.9.0">
-			<info compressed="false">https://raw.githubusercontent.com/reddit-reaper/repository.redditreaper/master/leia/zips/addons.xml</info>
-			<checksum>https://raw.githubusercontent.com/reddit-reaper/repository.redditreaper/master/leia/zips/addons.xml.md5</checksum>
-			<datadir zip="true">https://raw.githubusercontent.com/reddit-reaper/repository.redditreaper/master/leia/zips/</datadir>
+<addon id="repository.redditreaper" name="Reddit Reaper Repository" version="2.1" provider-name="Reddit Reaper">
+    <extension point="xbmc.addon.repository" name="[COLOR limegreen][B]Open[/B][/COLOR]Wizard Repository">
+        <dir minversion="18.0" maxversion="18.9.0">
+            <info compressed="false">https://raw.githubusercontent.com/reddit-reaper/repository.redditreaper/master/leia/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/reddit-reaper/repository.redditreaper/master/leia/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/reddit-reaper/repository.redditreaper/master/leia/zips/</datadir>
         </dir>
-		<dir minversion="18.9">
-			<info compressed="false">https://raw.githubusercontent.com/reddit-reaper/repository.redditreaper/master/matrix/zips/addons.xml</info>
-			<checksum>https://raw.githubusercontent.com/reddit-reaper/repository.redditreaper/master/matrix/zips/addons.xml.md5</checksum>
-			<datadir zip="true">https://raw.githubusercontent.com/reddit-reaper/repository.redditreaper/master/matrix/zips/</datadir>
-		</dir>		
-	</extension>
-	<extension point="xbmc.addon.metadata">
-		<summary>Reddit Reaper's Kodi Build Repository</summary>
-		<description>Reaper Builds</description>
-		<platform>all</platform>
-	</extension>
+        <dir minversion="18.9">
+            <info compressed="false">https://raw.githubusercontent.com/reddit-reaper/repository.redditreaper/master/matrix/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/reddit-reaper/repository.redditreaper/master/matrix/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/reddit-reaper/repository.redditreaper/master/matrix/zips/</datadir>
+        </dir>
+    </extension>
+    
+    <extension point="xbmc.addon.metadata">
+        <summary>Reddit Reaper's Kodi Repository</summary>
+        <description>Reaper Addons</description>
+        <disclaimer></disclaimer>
+        <platform>all</platform>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
+        <source>https://github.com/reddit-reaper/repository.redditreaper/</source>
+    </extension>
 </addon>
